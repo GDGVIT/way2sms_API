@@ -1,6 +1,6 @@
 # WAY2SMS API
 
-#### This repository contains script to send messages to mobile numbers from way2sms
+#### This repository contains python script to send messages to mobile numbers from way2sms
 
 ## Procedure
 
