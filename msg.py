@@ -7,7 +7,7 @@ def msg(username, passwd, message, number):
     message = "+".join(message.split(' '))
 
     #Logging into the SMS Site
-    url = 'http://site24.way2sms.com/Login1.action?'
+    url = 'http://way2sms.com/Login1.action?'
     data = 'username='+username+'&password='+passwd+'&Submit=Sign+in'
 
     #For Cookies:
